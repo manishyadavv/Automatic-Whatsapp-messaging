@@ -5,7 +5,7 @@
 >  <---sudo gem install watir--->
  
 run script by typing ruby main.rb 
- scan the code from your mobile from whatsappweb QR code scanner
+ scan the code from your mobile using whatsappweb QR code scanner
 > to run Chrome you have to install web driver
 
  **WARNING:Please use this script only for educational purposes, i am not responsible if your friends ( or even Whatsapp ) block you.**
