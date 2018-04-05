@@ -9,9 +9,9 @@ require 'watir'
 
 
   browser.send_keys :enter
-  element=browser.div(:class => "input")
   10.times do
-    element.send_keys [:control, "v"]
+    browser.send_keys 'Hello world'
+    sleep(rand(3..5))
     browser.send_keys :enter
-    sleep 2
+    sleep(rand(3..5))
   end
